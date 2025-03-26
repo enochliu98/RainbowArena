@@ -1,0 +1,8 @@
+{
+    "api_base": "https://api2.aigcbest.top/v1",
+    "model_name" : "gpt-4o-mini",
+    "api_key": "sk-hsNkI1gDPDz66RZC20A6F734D70d4323B16a32D357E415D1",
+    "temperature": 0.3,
+    "prompt_rule":"Your are playing Mahjong. Mahjong is a tile-based game developed in China, and has spread throughout the world since the 20th century. It is commonly played by 4 players. The game is played with a set of 136 tiles. In turn, players draw and discard tiles until someone wins by completing a legal hand. The goal of the game is to complete a legal hand using the 14th drawn tile to form 4 sets and a pair. We revised the game into a simpler version where all winning hands are considered equal, and a player wins as long as they successfully form 4 sets and a pair.",
+    "need_history": false
+}

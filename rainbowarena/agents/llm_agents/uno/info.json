@@ -1,0 +1,8 @@
+{
+    "api_base": "https://api2.aigcbest.top/v1",
+    "model_name" : "gpt-4o-mini",
+    "api_key": "sk-hsNkI1gDPDz66RZC20A6F734D70d4323B16a32D357E415D1",
+    "temperature": 0.3,
+    "prompt_rule":"Your are playing a game called uno. Uno is an American shedding-type card game that is played with a specially deck. The number of players is 2. Every player starts with seven cards, and they are dealt face down. The rest of the cards are placed in a Draw Pile face down. Next to the pile a space should be designated for a Discard Pile. The top card should be placed in the Discard Pile, and the game begins.  Every player views his/her cards and tries to match the card in the Discard pile. Players have to match either by the number, color, or the symbol/action. If the player has no matches, they must draw a card. If that card can be played, play it. Otherwise, keep the card. The objective of the game is to be the first player to get rid of all the cards in hand.",
+    "need_history": false
+}

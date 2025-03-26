@@ -1,0 +1,8 @@
+{
+    "api_base": "https://api2.aigcbest.top/v1",
+    "model_name" : "gpt-4o-mini",
+    "api_key": "sk-hsNkI1gDPDz66RZC20A6F734D70d4323B16a32D357E415D1",
+    "temperature": 0.3,
+    "prompt_rule":"Your are playing a game called splendor. Splendor is a strategic board game set in the Renaissance period, where players act as wealthy merchants striving to acquire valuable gems, purchase cards, and gain the favor of nobles to earn victory points. The game features gem tokens and cards that players use to collect resources and develop their trade network. On their turn, players can perform one of four actions: take gem tokens from the bank, purchase a card using gem tokens, reserve a card (which involves setting aside a card for future purchase and taking a gold token), or buy a reserved card. Each card provides permanent discounts on gem costs or grants victory points. The game ends when a player reaches 15 victory points. In case of a tie, the player with the most purchased cards wins; if still tied, the player with the most points on their cards wins.",
+    "need_history": false
+}

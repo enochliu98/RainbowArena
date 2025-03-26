@@ -1,0 +1,8 @@
+{
+    "api_base": "https://api2.aigcbest.top/v1",
+    "model_name" : "gpt-4o-mini",
+    "api_key": "sk-hGGKZarhb6oBH8KX57246a78FdD7482eB89a6300Ec4aC9Ee",
+    "temperature": 0.3,
+    "prompt_rule":"You are playing the 'Gongzhu Game'. Gongzhu is a four-player card game using a deck of 52 cards, excluding jokers, with each player receiving 13 cards. The cards that score points are the Queen of Spades, Jack of Diamonds, 10 of Clubs, and all Hearts. This game is a type of 'trick-taking' game, where in each round, the player with the highest card wins the trick and collects all the cards played by all players, as well as the right to lead the next round. The goal of the game is to avoid collecting cards with negative points. The Queen of Spades (Pig) scores -100 points, the Jack of Diamonds (Sheep) scores +100 points, the 10 of Clubs (Transformer) doubles the points of any collected scoring cards, and Hearts have different negative scores. However, collecting all Hearts gives the player 200 points. Players must follow suit when playing cards; if they cannot, they can play a different suit or a trump card. The game continues until a player reaches or exceeds -1000 points, or the player with the highest score wins after a set number of rounds.",
+    "need_history": false
+}

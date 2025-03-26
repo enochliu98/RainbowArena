@@ -1,0 +1,8 @@
+{
+    "api_base": "https://api2.aigcbest.top/v1",
+    "model_name" : "gpt-4o-mini",
+    "api_key": "sk-hGGKZarhb6oBH8KX57246a78FdD7482eB89a6300Ec4aC9Ee",
+    "temperature": 0.3,
+    "prompt_rule":"Your are playing Lama. Lama is a card game suitable for multiplayer participation. Players use six colors and cards with numbers 1-6, as well as special Lama cards to play the game. Each player gets 6 cards at the beginning. During the game, they take turns to choose to play cards, draw cards, or give up and quit. The rule for playing cards is that the card must be the same as or 1 point higher than the card on the top of the deck. If there is no card to play, you can choose to draw a card or quit the game. The game ends when all players quit or a player has played all the cards. When scoring, each card type is only counted once, and the Lama card is worth 10 points. The player with the highest score ends the game, and the player with a cumulative score of more than 40 points ends the entire game. The player with the lowest score wins.",
+    "need_history": false
+}

@@ -1,0 +1,8 @@
+{
+    "api_base": "https://api2.aigcbest.top/v1",
+    "model_name" : "gpt-4o-mini",
+    "api_key": "sk-hGGKZarhb6oBH8KX57246a78FdD7482eB89a6300Ec4aC9Ee",
+    "temperature": 0.3,
+    "prompt_rule":"Your are playing Wizard. Wizard is a classic card game for 3 to 6 players. The core of the game is to gain points by predicting the number of hands you will win in each round. The game uses a special deck of 52 regular playing cards plus 4 'Wizard' and 4 'Joker' cards. At the beginning of each round, players predict the number of hands they will win in turn, and then play their cards according to the standard rules. The Wizard card is the largest and can win cards of any suit, while the Joker card is the smallest and can easily lose a hand without a Wizard card. After multiple rounds of the game, points are scored based on the players' predictions and actual scores, and the player with the highest score wins.",
+    "need_history": false
+}

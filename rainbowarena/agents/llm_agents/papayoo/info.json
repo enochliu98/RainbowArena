@@ -1,0 +1,8 @@
+{
+    "api_base": "https://api2.aigcbest.top/v1",
+    "model_name" : "gpt-4o-mini",
+    "api_key": "sk-hGGKZarhb6oBH8KX57246a78FdD7482eB89a6300Ec4aC9Ee",
+    "temperature": 0.3,
+    "prompt_rule":"Your are playing Papayoo. Papayoo is a card game suitable for 3 to 8 players. The game uses a special deck of cards, including four conventional suits (10 cards each) and a special 'Payoo' suit (20 cards). This game is a type of 'trick-taking' game where the player who wins the current trick collects all the cards played in that trick. The objective of the game is to avoid acquiring cards with points, especially the Payoo cards and the Papayoo card (the 7 card of a certain suit), as these point cards will give the players corresponding negative points. The game ends when the player with the fewest negative points wins.",
+    "need_history": false
+}

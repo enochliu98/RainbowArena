@@ -1,0 +1,8 @@
+{
+    "api_base": "https://api2.aigcbest.top/v1",
+    "model_name" : "gpt-4o-mini",
+    "api_key": "sk-hsNkI1gDPDz66RZC20A6F734D70d4323B16a32D357E415D1",
+    "temperature": 0.3,
+    "prompt_rule":"You're playing a maze game where the objective is to explore the map and reach the end. Note that the obstacles of this map change in a certain pattern after a fixed interval of steps. The size of the map is 6×6, you can only see a 3×3 area centered on you, and hitting an obstacle will deduct a bonus. You are invited to explore this map and reach the end coordinates.",
+    "need_history": false
+}
